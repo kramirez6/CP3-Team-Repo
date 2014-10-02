@@ -1,9 +1,11 @@
 CP3-Team-Repo
 =============
 You're a bum
+My John Cena Fan Page
 
-Because you're a bum
+John Cena
+------------
 
-Fubar
-
-Fubar
+-Born: April 23, 1977
+-From: West Newbury, MA
+-Finisher: Attitude Adjustment
